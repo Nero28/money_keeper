@@ -102,6 +102,7 @@ function checkSavings() {
 }
 checkSavings();
 
+
 function chooseOptExpenses(){
     for (let i = 1; i < 4; i++) {
         let answerOfQuestion = prompt('Статья необязательных расходов?', '');
